@@ -1,0 +1,648 @@
+{
+"the shining":  {
+    "number-pages": 447,
+    "name": "The Shining",
+    "author": "Stephen King",
+    "publishing-year": "1977",
+    "publisher": "Doubleday",
+    "shopping-link": "https://www.amazon.in/Shining-Stephen-King/dp/0307743659/ref=tmm_mmp_swatch_0?_encoding=UTF8&qid=&sr=",
+    "download-link": "https://book4you.org/book/3856268/1b354b"
+    },
+"the time machine 2.0": {
+    "id": 112,
+    "name": "The Time Machine 2.0",
+    "number-pages": 117,
+    "author": "H G Wells",
+    "publishing-year": "2015",
+    "publisher": "Fingerprint!",
+    "shopping-link": "https://www.amazon.in/Time-Machine-H-G-Wells/dp/8175992956/ref=sr_1_37?keywords=amazon+store+book&qid=1665083751&qu=eyJxc2MiOiIxLjUxIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=%2Caps%2C775&sr=8-37",
+    "download-link": "https://www.planetebook.com/free-ebooks/the-time-machine.pdf"
+},
+"the time machine returns": {
+    "name": "The Time Machine returns",
+    "number-pages": 117,
+    "author": "H G Wells",
+    "publishing-year": "2015",
+    "publisher": "Fingerprint!",
+    "shopping-link": "https://www.amazon.in/Time-Machine-H-G-Wells/dp/8175992956/ref=sr_1_37?keywords=amazon+store+book&qid=1665083751&qu=eyJxc2MiOiIxLjUxIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=%2Caps%2C775&sr=8-37",
+    "download-link": "https://www.planetebook.com/free-ebooks/the-time-machine.pdf"
+},
+"the time machine": {
+    "id": 111,
+    "name": "The Time Machine",
+    "number-pages": 117,
+    "author": "H G Wells",
+    "publishing-year": "2015",
+    "publisher": "Fingerprint!",
+    "shopping-link": "https://www.amazon.in/Time-Machine-H-G-Wells/dp/8175992956/ref=sr_1_37?keywords=amazon+store+book&qid=1665083751&qu=eyJxc2MiOiIxLjUxIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=%2Caps%2C775&sr=8-37",
+    "download-link": "https://www.planetebook.com/free-ebooks/the-time-machine.pdf"
+},
+"the black sheep": {
+    "id": 108,
+    "name": "The Black Sheep",
+    "number-pages": 307,
+    "author": "Honoré de Balzac",
+    "publishing-year": "2022",
+    "publisher": "E-BOOKARAMA",
+    "shopping-link": "https://www.amazon.in/Black-Sheep-Honor%C3%A9-Balzac-ebook/dp/B0892Y9JLS",
+    "download-link": "https://www.globalgreyebooks.com/black-sheep-ebook.html#downloads"
+},
+"rework": {
+    "id": 107,
+    "name": "ReWork",
+    "number-pages": 288,
+    "author": "David Heinemeier Hansson",
+    "publishing-year": "2010",
+    "publisher": "FSC",
+    "shopping-link": "https://www.amazon.in/ReWork-Change-Way-Work-Forever/dp/0091929784",
+    "download-link": "https://book4you.org/book/1257901/7b4737"
+},
+"panipat": {
+    "id": 106,
+    "name": "Panipat",
+    "number-pages": 321,
+    "author": "Vishwas Patil",
+    "publishing-year": "1988",
+    "publisher": "HarperOne",
+    "shopping-link": "https://www.amazon.in/Panipat-Vishwas-Patil/dp/8174349065",
+    "download-link": "https://www.amazon.in/Panipat-Vishwas-Patil/dp/8174349065"
+},
+
+"the power of your subconscious mind": {
+    "id": 104,
+    "name": "The Power of Your Subconscious Mind",
+    "number-pages": 232,
+    "author": "Joseph Murphy",
+    "publishing-year": "2020",
+    "shopping-link": "https://www.amazon.in/Power-Your-Subconscious-Mind/dp/8194790832/ref=pd_bxgy_img_sccl_2/257-9410164-9142465?pd_rd_w=V1GHM&content-id=amzn1.sym.d68c4347-8b80-4998-9474-4671a1e32e96&pf_rd_p=d68c4347-8b80-4998-9474-4671a1e32e96&pf_rd_r=ARG36NKSH8MCKP47SRD5&pd_rd_wg=TLwtY&pd_rd_r=b3754809-0d3b-47e0-a654-6afd00057d9c&pd_rd_i=8194790832&psc=1",
+    "download-link": "https://instapdf.in/the-power-of-subconscious-mind/"
+},
+"the fault in our stars": {
+    "id": 101,
+    "name": "The Fault in our stars",
+    "number-pages": 336,
+    "author": "John Green",
+    "publishing-year": "2012",
+    "publisher": "Dutton Books for Young Readers",
+    "shopping-link": "https://www.amazon.in/Fault-Our-Stars-John-Green/dp/014242417X",
+    "download-link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjtmIbBt8H6AhUbSmwGHWhcAMIQFnoECB4QAQ&url=https%3A%2F%2Fbooks-library.net%2Ffiles%2Fbooks-library.online-12292230Vr3R6.pdf&usg=AOvVaw3VLeA6GpLJFh2LGZfxFJBG"
+},
+"Attitude is everything": {
+    "id": 100,
+    "name": "Attitude is everything",
+    "number-pages": 144,
+    "author": "Jeff Keller ",
+    "publishing-year": "1999",
+    "shopping-link": "https://www.amazon.in/Attitude-Everything-Change-Your-Life/dp/9351772071",
+    "download-link": "https://www.pdfnotes.co/attitude-is-everything-book/"
+},
+"Think and Grow Rich": {
+    "id": 98,
+    "name": "Think and Grow Rich",
+    "number-pages": 238,
+    "author": "Napoleon Hill",
+    "publishing-year": "1937",
+    "publisher": "The Ralston Society",
+    "shopping-link": "https://www.amazon.in/Think-Grow-Rich-Napoleon-Hill/dp/8192910911/ref=asc_df_8192910911/?tag=googleshopdes-21&linkCode=df0&hvadid=397010195686&hvpos=&hvnetw=g&hvrand=996060341805705978&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20464&hvtargid=pla-318314934946&psc=1&ext_vrnc=hi",
+    "download-link": "https://apex.oracle.com/pls/apex/lonestar/r/files/static/v13Y/Think-And-Grow-Rich_2011-06.pdf"
+},
+"think like a monk": {
+    "id": 97,
+    "name": "Think Like A Monk",
+    "number-pages": 352,
+    "author": "Jay Shetty",
+    "publishing-year": "2020",
+    "publisher": "Simon & Schuster",
+    "shopping-link": "https://www.amazon.in/Think-Like-Monk-Jay-Shetty/dp/0008386595/ref=sr_1_3?keywords=think+like+a+monk&qid=1664788313&qu=eyJxc2MiOiIyLjA3IiwicXNhIjoiMS40NCIsInFzcCI6IjEuMDkifQ%3D%3D&sprefix=think+%2Caps%2C356&sr=8-3",
+    "download-link": "https://icrrd.com/media/16-05-2021-072848Think-Like-a-Monk.pdf"
+},
+"never be boring again":{
+    "id": 96,
+    "name": "Never Be Boring Again",
+    "number-pages": 352,
+    "author": "Dong Stevenson",
+    "publishing-year": "2004",
+    "shopping-link": "https://www.amazon.in/Business-Presentations-Capture-Attention-Inspire/dp/8176498408/ref=sr_1_7?crid=39WCZYGVAOETQ&keywords=boring+book&qid=1664721023&s=books&sprefix=boring+book%2Cstripbooks%2C483&sr=1-7",
+    "download-link": "https://public.summaries.com/files/1-page-summary/never-be-boring-again.pdf"
+},
+"web hacking 101":  {
+    "id": 93,
+    "name": "Web Hacking 101",
+    "number-pages": 255,
+    "author": "Peter Yaworski",
+    "publishing-year": "2015",
+    "shopping-link": "https://leanpub.com/web-hacking-101",
+    "download-link": "https://digtvbg.com/files/books-for-hacking/Web%20Hacking%20101%20-%20How%20to%20Make%20Money%20Hacking%20Ethically%20by%20Peter%20Yaworski.pdf"
+},
+"the cat people":  {
+    "id": 92,
+    "name": "The Cat people",
+    "number-pages": 320,
+    "author": "Devapriya Roy",
+    "publishing-year": "2021",
+    "shopping-link": "https://www.amazon.in/Cat-People-Devapriya-Roy/dp/9392099126/ref=asc_df_9392099126/?tag=googleshopdes-21&linkCode=df0&hvadid=545580300880&hvpos=&hvnetw=g&hvrand=12825185931235194698&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9299716&hvtargid=pla-1569979344473&psc=1",
+    "download-link": "https://www.simonandschuster.com/books/Cat-People/Devapriya-Roy/9789392099137"
+},
+"five point someone": {
+    "id": 92,
+    "name": "Five Point Someone",
+    "number-pages": 270,
+    "author": "Chetan Bhagat",
+    "publishing-year": "2004",
+    "shopping-link": "https://www.amazon.in/Five-Point-Someone-What-Not/dp/8129135493/ref=asc_df_8129135493/?tag=googleshopdes-21&linkCode=df0&hvadid=397082398943&hvpos=&hvnetw=g&hvrand=11060934719459260822&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-318700089790&psc=1&ext_vrnc=hi",
+    "download-link": "https://www.pdfdrive.com/five-point-someone-d14979218.html"
+},
+"one night at call centre":  {
+    "id": 100,
+    "name": "One Night at the call centre",
+    "number-pages": 267,
+    "author": "Chetan Bhagat",
+    "publishing-year": "2005",
+    "shopping-link": "https://www.amazon.in/Night-Call-Centre-Chetan-Bhagat/dp/8129135507",
+    "download-link": "https://hum14.files.wordpress.com/2008/11/one-night-at-call-centre.pdf"
+},
+"reminders of him":  {
+    "id": 92,
+    "number-pages": 335,
+    "name": "Reminders of Him",
+    "author": "Colleen Hoover",
+    "publishing-year": "2022",
+    "publisher": "Center Point Large Print",
+    "shopping-link": "https://www.amazon.in/Reminders-Him-Novel-Colleen-Hoover-ebook/dp/B0976V6YSL",
+    "download-link": "https://ebooksheep.com/2022/01/18/reminders-of-him-by-colleen-hoover-epub-download/"
+},
+"javascript: javascript for beginners": {
+    "id": 90,
+    "name": "JavaScript: JavaScript For Beginners",
+    "number-pages": 115,
+    "author": "Stephen Blumenthal",
+    "publishing-year": "2017",
+    "shopping-link": "https://www.amazon.in/JavaScript-Beginners-Everything-Language-Programming/dp/1548799386",
+    "download-link": "https://www.pdfdrive.com/javascript-javascript-for-beginners-learn-javascript-programming-with-ease-in-half-the-time-everything-about-the-language-coding-programming-and-web-pages-you-need-to-know-e158299863.html"
+},
+"wings of fire": {
+    "id": 87,
+    "name": "Wings of Fire",
+    "number-pages": 180,
+    "author": "A P J Abdul Kalam",
+    "publishing-year": "1999",
+    "shopping-link": "https://www.amazon.in/Wings-Fire-Autobiography-Abdul-Kalam/dp/8173711461",
+    "download-link": "https://ati.dae.gov.in/ati12052021_8.pdf"
+},
+"white nights": {
+    "id": 85,
+    "name": "White Nights",
+    "number-pages": 283,
+    "author": "Fjodor Dostoyevsky",
+    "publishing-year": "1848",
+    "shopping-link": "https://www.amazon.com/White-Nights-Fyodor-Dostoyevsky/dp/0241252083",
+    "download-link": "https://www.holybooks.com/wp-content/uploads/White-Nights-And-Other-Stories.pdf"
+},
+"sherlocks homes":  {
+    "id": 77,
+    "number-pages": 300,
+    "name": "sherlocks homes",
+    "author": "Crittenden Marriott",
+    "publishing-year": "1925",
+    "publisher": "Lippincott Company, 1909",
+    "shopping-link": "https://www.amazon.com/Isle-Dead-Ships-Crittenden-MARRIOTT/dp/B000HX1MBG",
+    "download-link": "https://www.gutenberg.org/ebooks/69065"
+},
+"algorithms to live by: the computer science of human decisions":  {
+    "id": 76,
+    "name": "Algorithms to Live By: The Computer Science of Human Decisions",
+    "number-pages": 376,
+    "author": "Brian Christian",
+    "publishing-year": "2016",
+    "shopping-link": "https://www.amazon.com/Algorithms-to-Live-By-audiobook/dp/B01D24NAL6",
+    "download-link": "https://www.pdfdrive.com/algorithms-to-live-by-the-computer-science-of-human-decisions-e33410583.html"
+},
+"the white tiger": {
+    "id": 75,
+    "name": "The White Tiger",
+    "number-pages": 512,
+    "author": "ARAVIND ADIGA",
+    "publishing-year": "2008",
+    "publisher": "Basic Books; Reprint edition ",
+    "shopping-link": "https://www.amazon.in/White-Tiger-Novel-Booker-Prize/dp/1416562605",
+    "download-link": "https://www.amazon.in/White-Tiger-Novel-Booker-Prize/dp/1416562605"
+},
+"the setup":  {
+    "id": 74,
+    "name": "The Setup",
+    "number-pages": 512,
+    "author": "Dan Bilzerian",
+    "publishing-year": "2022",
+    "shopping-link": "https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692",
+    "download-link": "https://drive.google.com/file/d/1JSxA0Y7Igo1A4lZrblNfnYhM3qGKzFHa/view?usp=sharing"
+},
+"the famous five": {
+    "id": 72,
+    "name": "The Famous Five",
+    "number-pages": 458,
+    "author": "Enid Blyton",
+    "publishing-year": "1942",
+    "publisher": "Blyton",
+    "shopping-link": "https://www.amazon.com/famous-five-Enid-Blyton/dp/2830202848",
+    "download-link": "https://booksvooks.com/series/the-famous-five/"
+},
+"rich dad poor dad":   {
+    "id": 71,
+    "name": "Rich Dad Poor Dad",
+    "number-pages": 243,
+    "author": "Robert Kiyosaki",
+    "publishing-year": "2000",
+    "shopping-link": "https://www.amazon.in/Rich-Dad-Poor-Middle-Updates/dp/1612680194",
+    "download-link": "https://www.pdfdrive.com/rich-dad-poor-dad-e136494023.html"
+},
+"the 5 am club ": {
+    "id": 69,
+    "number-pages": 336,
+    "name": "The 5 AM Club",
+    "author": "Robin Sharma",
+    "publishing-year": "2018",
+    "publisher": " Jaico Publishing House",
+    "shopping-link": "https://www.amazon.in/AM-Club-Your-Morning-Elevate/dp/9387944891/ref=sr_1_3?keywords=the+5+am+club&qid=1664566452&qu=eyJxc2MiOiIxLjUzIiwicXNhIjoiMS4xMSIsInFzcCI6IjAuOTcifQ%3D%3D&sprefix=the+5+am%2Caps%2C276&sr=8-3",
+    "download-link": "https://www.pdfnotes.co/the-5am-club/"
+},
+"the subtle art of not giving a f*ck":   {
+    "id": 67,
+    "number-pages": 152,
+    "name": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "publishing-year": "2016",
+    "publisher": "Enslow Publishing",
+    "shopping-link": "https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713",
+    "download-link": "https://www.pdfdrive.com/the-subtle-art-of-not-giving-a-fuck-by-mark-manson-e200835181.html"
+},
+"mein kampf":   {
+    "id": 66,
+    "name": "mein kampf",
+    "number-pages": 2000,
+    "author": "adolf Hitler",
+    "publishing-year": "1925",
+    "shopping-link": "https://www.google.com/search?q=mein+kampf&sxsrf=ALiCzsalRrqu0qkJkfgwU1h-K9ESDgOdww:1664567684092&source=lnms&tbm=shop&sa=X&ved=2ahUKEwj7847spb36AhVOSmwGHTmSCYsQ_AUoAXoECAEQAw&biw=767&bih=704&dpr=1.25",
+    "download-link": "https://greatwar.nl/books/meinkampf/meinkampf.pdf"
+},
+"deep work":  {
+    "id": 65,
+    "name": "Deep Work",
+    "number-pages": 290,
+    "author": "Carl Newport",
+    "publishing-year": "2016",
+    "shopping-link": "https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692",
+    "download-link": "https://www.pdfdrive.com/deep-work-cal-newport-e33410582.html"
+},
+"one arragned murder": {
+    "id": 64,
+    "number-pages": 312,
+    "name": "One Arragned Murder",
+    "author": "Chetan Bhagat",
+    "publishing-year": "2020",
+    "publisher": "Westland Publications Limited",
+    "shopping-link": "https://www.flipkart.com/one-arranged-murder/p/itmb4cd0197e98ce",
+    "download-link": "https://ia801704.us.archive.org/3/items/SC_10042/%5BStudyCrux.com%5D%20One%20Arranged%20Murder%20by%20Chetan%20Bhagat-X.pdf"
+  },
+"to kill a mockingbird":   {
+    "id": 63,
+    "number-pages": 336,
+    "name": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "publishing-year": "1961",
+    "publisher": "Harper Perennial Modern Classics",
+    "shopping-link": "https://www.amazon.com/s/ref=x_gr_w_bb_sout?tag=x_gr_w_bb_sout-20&creative=374001&campaign=211041&adid=082VK13VJJCZTQYGWWCZ&index=books&keyword=To+Kill+a+Mockingbird",
+    "download-link": "https://bookanalysis.com/harper-lee/to-kill-a-mockingbird/"
+},
+"mindset":   {
+    "id": 62,
+    "number-pages": 96,
+    "name": "Mindset",
+    "author": "Shelley",
+    "publishing-year": "2013",
+    "publisher": "Rochelle Publishing",
+    "shopping-link": "https://www.amazon.in/gp/product/0766040844/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_in-21&linkCode=as2&camp=3626&creative=24790",
+    "download-link": "https://drive.google.com/file/d/0B3dBEuS_INzOU3EybHVONEpkYzg/view?resourcekey=0-W_h-Aav9MXu4eBN-aoWcdQ"
+},
+"mindbody 2": {
+    "id": 60,
+    "number-pages": 96,
+    "name": "Mindbody 2",
+    "author": "Shelley",
+    "publishing-year": "2013",
+    "publisher": "Nehal Ughade",
+    "shopping-link": "https://www.amazon.in/gp/product/0766040844/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_in-21&linkCode=as2&camp=3626&creative=24790",
+    "download-link": "https://drive.google.com/file/d/0B3dBEuS_INzOU3EybHVONEpkYzg/view?resourcekey=0-W_h-Aav9MXu4eBN-aoWcdQ"
+},
+"american sign language for beginners": {
+    "id": 56,
+    "number-pages": 192,
+    "name": "American Sign Language for Beginners",
+    "author": " Rochelle Barlow",
+    "publishing-year": "2020",
+    "publisher": "Callisto Media, 2020",
+    "shopping-link": "https://www.amazon.in/American-Sign-Language-Beginners-Essentials/dp/1646116429",
+    "download-link": "https://books.google.co.in/books/about/American_Sign_Language_for_Beginners.html?id=JO5XyQEACAAJ&source=kp_book_description&redir_esc=y"
+},
+"Frankenstein": {
+    "id": 57,
+    "number-pages": 96,
+    "name": "Frankenstein",
+    "author": "Mary Shelley",
+    "publishing-year": "2013",
+    "publisher": "Enslow Publishing",
+    "shopping-link": "https://www.amazon.in/gp/product/0766040844/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_in-21&linkCode=as2&camp=3626&creative=24790",
+    "download-link": "https://drive.google.com/file/d/0B3dBEuS_INzOU3EybHVONEpkYzg/view?resourcekey=0-W_h-Aav9MXu4eBN-aoWcdQ"
+},
+"The Lord of the Rings": {
+    "id": 55,
+    "name": "The Lord of the Rings",
+    "number-pages": 480,
+    "author": "John Ronald Reuel Tolkien",
+    "publishing-year": "1988 ",
+    "publisher": "Ballantine Books ",
+    "shopping-link": "https://www.amazon.in/Lord-Rings-J-R-Tolkien/dp/0008471282",
+    "download-link": "https://books.google.co.in/books/about/The_lord_of_the_rings.html?id=7iS1CCpHrJgC&redir_esc=y"
+},
+"diary of a wimpy kid": {
+    "id": 50,
+    "name": "Diary of a Wimpy Kid",
+    "number-pages": 512,
+    "author": "Jeff Kinney",
+    "publishing-year": "2001",
+    "publisher": "Basic Books; Reprint edition ",
+    "shopping-link": "https://en.wikipedia.org/wiki/Diary_of_a_Wimpy_Kid",
+    "download-link": "https://wimpykid.com/"
+},
+"the martian":{
+    "id": 57,
+    "number-pages": 384,
+    "name": "The Martian",
+    "author": "Andy Weir",
+    "publishing-year": "2011",
+    "publisher": "Crown Publishing Group",
+    "shopping-link": "https://www.amazon.in/Martian-Novel-Andy-Weir/dp/0804139024",
+    "download-link": "https://www.readingsanctuary.com/the-martian-ebook/"
+},
+"the secret":  {
+    "id": 60,
+    "number-pages": 206,
+    "name": "The Secret",
+    "author": "Rhonda Byrne",
+    "publishing-year": "2006",
+    "publisher": "Atria Books",
+    "shopping-link": "https://www.amazon.in/Secret-Rhonda-Byrne/dp/1847370292/ref=sr_1_2?crid=15KC3MPGJPDWR&keywords=the+secret+book+english&qid=1664564305&qu=eyJxc2MiOiIzLjQzIiwicXNhIjoiMy41NiIsInFzcCI6IjMuMDUifQ%3D%3D&sprefix=the+secret+%2Caps%2C633&sr=8-2",
+    "download-link": "https://addictbooks.com/the-secret-book-pdf-free-download-rhonda-byrne/"
+},
+"practicing mind": {
+    "id": 43,
+    "name": "Practicing Mind",
+    "number-pages": 98,
+    "author": "Tom Sterner",
+    "publishing-year": "2006",
+    "shopping-link": "https://www.amazon.in/Practicing-Mind-Developing-Discipline-Challenge/dp/1608680908",
+    "download-link": "https://pdflake.com/the-practicing-mind-pdf-book/"
+},
+"the great gatsby":  {
+    "id": 41,
+    "name": "The Great Gatsby",
+    "number-pages": 200,
+    "author": "F. Scott Fitzgerald",
+    "publishing-year": "1925",
+    "shopping-link": "https://www.amazon.in/Gatsby-Fitzgerald-Hardcover-International-Bestseller/dp/9391626351/ref=asc_df_9391626351/?tag=googleshopdes-21&linkCode=df0&hvadid=586385285702&hvpos=&hvnetw=g&hvrand=67477073752252646&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007786&hvtargid=pla-1653658130611&psc=1",
+    "download-link": "https://www.google.com/search?q=The+Great+Gatsby+download&client=ubuntu&hs=iw3&sa=X&channel=fs&biw=1538&bih=783&tbm=shop&ei=yzI3Y8ffBprn4-EPsqme8AI&ved=0ahUKEwiH8a6WkL36AhWa8zgGHbKUBy4Q4dUDCAU&uact=5&oq=The+Great+Gatsby+download&gs_lcp=Cgtwcm9kdWN0cy1jYxADMggIABAeEBYQGDoHCAAQsAMQQzoICAAQgAQQsAM6BAgAEEM6BQgAEIAEOgQIABAYSgQIQRgBUJ0EWI0bYNUcaAZwAHgAgAHQAYgB0xWSAQUwLjYuOJgBAKABAcgBCsABAQ&sclient=products-cc"
+},
+"peace": {
+    "id": 40,
+    "number-pages": 24,
+    "name": "Peace",
+    "author": "Dipankar",
+    "publishing-year": "2025",
+    "publisher": "The hindu messenger",
+    "shopping-link": "https://www.amazon.in/Lou/dp/B075FZDHPZ",
+    "download-link": "https://www.linkedin.com/in/louwang?original_referer=https%3A%2F%2Fwww.google.com%2F"
+},
+"ugly love": {
+    "id": 39,
+    "number-pages": 336,
+    "name": "Ugly Love",
+    "author": "Colleen Hoover",
+    "publishing-year": "2014",
+    "publisher": "Simon & Schuster",
+    "shopping-link": "https://www.flipkart.com/ugly-love/p/itm37b4caa6102e6?pid=RBKGC4RKCQD4TVWY&lid=LSTRBKGC4RKCQD4TVWYSM6QVG&marketplace=FLIPKART&cmpid=content_regionalbooks_18440873650_u_8965229628_gmc_pla&tgi=sem,1,G,11214002,u,,,624398499082",
+    "download-link": "https://ia804505.us.archive.org/27/items/1_20210822_20210822_1607/PDFORALL.COM-Ugly%20Love%20by%20Colleen%20Hoover.pdf"
+},
+"the monk":    {
+    "id": 30,
+    "number-pages": 228,
+    "name": "The Monk Who Sold His Ferrari",
+    "author": "Robin Sharma",
+    "publishing-year": "1996",
+    "publisher": "Harper Collins Publishers",
+    "shopping-link": "https://www.amazon.in/Monk-Who-Sold-His-Ferrari/dp/0062515675",
+    "download-link": "https://www.apnamba.com/Ebooks-pdf/The%20Monk%20who%20sold%20his%20ferrari%20-%20Robin%20Sharma%20(PDF)%20%5BQwerty80%5D.pdf"
+},
+"war and peace":  {
+    "id": 27,
+    "number-pages": 245,
+    "name": "War and Peace",
+    "author": "Leo Tolstoy",
+    "publishing-year": "1865",
+    "publisher": "The Russian Messenger",
+    "shopping-link": "https://www.amazon.in/War-Peace-Leo-Tolstoy/dp/8175992832",
+    "download-link": "https://www.planetebook.com/war-and-peace/"
+},
+"it ends with us":{
+    "id": 25,
+    "number-pages": 646,
+    "name": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "publishing-year": "2016",
+    "publisher": "Atria Books",
+    "shopping-link": "https://www.amazon.in/s?k=it+ends+with+us+novel&hvadid=73117601034628&hvbmt=bb&hvdev=c&hvqmt=b&tag=msndeskstdin-21&ref=pd_sl_6jzircqp9p_b",
+    "download-link": "https://docer.tips/it-ends-with-us-colleen-hoover-eng-pdf.html"
+},
+"who moved my cheese":  {
+    "id": 22,
+    "number-pages": 200,
+    "name": "Who moved my cheeses",
+    "author": "Where is my Cheese",
+    "publishing-year": "2004",
+    "shopping-link": "https://www.amazon.in/Who-Moved-Cheese-Spencer-Johnson/dp/0091883768#:~:text=Who%20Moved%20My%20Cheese%3F%20is,them%20and%20make%20them%20happy",
+    "download-link": "https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F"
+},
+"4 states": {
+    "id": 18,
+    "number-pages": 245,
+    "name": "4 states",
+    "author": "chetan kashid",
+    "publishing-year": "2010",
+    "publisher": "pika publi.",
+    "shopping-link": "https://www.amazon.in/2-States-Story-My-Marriage/dp/8129135523",
+    "download-link": "https://instapdf.in/two-states-by-chetan-bhagat/"
+},
+"2 states": {
+    "id": 16,
+    "number-pages": 240,
+    "name": "2 states",
+    "author": "chetan bhagat",
+    "publishing-year": "2009",
+    "publisher": "Rupa Pub.",
+    "shopping-link": "https://www.amazon.in/2-States-Story-My-Marriage/dp/8129135523",
+    "download-link": "https://instapdf.in/two-states-by-chetan-bhagat/"
+},
+"theory of relativity": {
+    "id": 15,
+    "number-pages": 265,
+    "name": "Theory of Relativity",
+    "author": "Albert Einstein",
+    "publishing-year": "1944",
+    "publisher": "Lippin Company, 1909",
+    "shopping-link": "https://www.amazon.com/General-Theory/dp/B000HX1MBG",
+    "download-link": "https://www.gutenberg.org/ebooks/6906500"
+},
+"crime and punishment":   {
+    "id": 14,
+    "number-pages": 671,
+    "name": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "publishing-year": "1866",
+    "publisher": "Penguin Classics",
+    "shopping-link": "https://www.amazon.in/Punishment-Penguin-Classics-Fyodor-Dostoyevsky/dp/0140449132",
+    "download-link": "https://www.planetebook.com/crime-and-punishment/"
+},
+"isel of dead ships": {
+    "id": 6,
+    "number-pages": 99,
+    "name": "Isel of Dead Ships",
+    "author": "mr agent",
+    "publishing-year": "2003",
+    "publisher": "Lippincott Company, 1909",
+    "shopping-link": "https://www.amazon.com/Isle-Dead-Ships-Crittenden-MARRIOTT/dp/B000HX1MBG",
+    "download-link": "https://www.gutenberg.org/ebooks/69065"
+},
+"around the world in eighty days":  {
+    "id": 49,
+    "name": "Around the World in Eighty Days",
+    "number-pages": 130,
+    "author": "Jules Verne",
+    "publishing-year": "1872",
+    "shopping-link": "https://www.amazon.in/Around-World-Eighty-Jules-Verne/dp/8175993936/ref=sr_1_2?crid=84ON5LKWED2R&keywords=around+the+world+in+80+days+by+jules+verne&qid=1664563986&qu=eyJxc2MiOiIyLjg1IiwicXNhIjoiMi4wOSIsInFzcCI6IjEuNTUifQ%3D%3D&sprefix=around+the+world+in+80+days%2Caps%2C222&sr=8-2",
+    "download-link": "https://www.gutenberg.org/ebooks/103"
+},
+"the martian": {
+    "id": 57,
+    "number-pages": 384,
+    "name": "The Martian",
+    "author": "Andy Weir",
+    "publishing-year": "2011",
+    "publisher": "Crown Publishing Group",
+    "shopping-link": "https://www.amazon.in/Martian-Novel-Andy-Weir/dp/0804139024",
+    "download-link": "https://www.readingsanctuary.com/the-martian-ebook/"
+},
+"bossypants": {
+    "id": 56,
+    "number-pages": 283,
+    "name": "Bossypants",
+    "author": "Tina Fey",
+    "publishing-year": "2011",
+    "publisher": "Reagan Arthur Books",
+    "shopping-link": "https://www.amazon.in/Bossypants-Tina-Fey/dp/0751547832",
+    "download-link": "https://www.d-pdf.com/book/2366/read"
+},
+"the alchemist novel": {
+    "id": 32,
+    "number-pages": 208,
+    "name": "The Alchemist (novel)",
+    "author": "Paulo Coelho",
+    "publishing-year": "1988",
+    "publisher": "HarperTorch",
+    "shopping-link": "https://www.amazon.in/Alchemist-Paulo-Coelho/dp/0007487940/ref=asc_df_0007487940/?tag=googleshopdes-21&linkCode=df0&hvadid=396989136123&hvpos=&hvnetw=g&hvrand=6639694956872266551&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-835610978096&psc=1&ext_vrnc=hi",
+    "download-link": "https://www.amazon.in/Alchemist-Paulo-Coelho-ebook/dp/B00U6SFUSS/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr="
+},
+"jo marchant": {
+    "id": 45,
+    "number-pages": 368,
+    "author": "Jo Marchant",
+    "publishinM-year": "2020",
+    "publisher": "Canongate ",
+    "shopping-link": "https://www.amazon.in/Human-Cosmos-Secret-History-Stars/dp/1786894025",
+    "download-link": "https://www.goodreads.com/book/show/50165550-the-human-cosmos"
+},
+"alchemist":    {
+    "id": 26,
+    "number-pages": 265,
+    "name": "Alchemist",
+    "author": "Panlo coelho",
+    "publishing-year": "1998",
+    "publisher": "Lippincott Company, 1909",
+    "shopping-link": "https://www.amazon.com/Isle-Dead-Ships-Crittenden-MARRIOTT/dp/B000HX1MBG",
+    "download-link": "https://www.gutenberg.org/ebooks/69065"
+},
+"around india in 80 trains":  {
+    "id": 88,
+    "name": "Around India in 80 Trains",
+    "number-pages": 264,
+    "author": "Monisha Rajesh",
+    "publishing-year": "2012",
+    "shopping-link": "https://www.amazon.in/Around-India-Trains-Monisha-Rajesh/dp/8174369139",
+    "download-link": "https://b-ok.asia/book/2080481/2c740c"
+},
+"the hobbit":   {
+    "id": 79,
+    "number-pages": 310,
+    "name": "The Hobbit",
+    "author": "J. R. R. Tolkien",
+    "publishing-year": "1937",
+    "publisher": "George Allen & Unwin",
+    "shopping-link": "https://www.google.co.in/books/edition/The_Hobbit/CixXEAAAQBAJ?hl=en",
+    "download-link": "https://www.pdfdrive.com/the-hobbit-e17592270.html"
+},
+"norwegian woods": {
+    "id": 68,
+    "number-pages": 381,
+    "name": "Norwegian Woods",
+    "author": "Haruki Murakami",
+    "publishing-year": "1987",
+    "publisher": "Kodansha",
+    "shopping-link": "https://www.amazon.in/Norwegian-Wood-Haruki-Murakami/dp/0099448823"
+},
+"mindbody 2":{
+    "id": 60,
+    "number-pages": 96,
+    "name": "Mindbody 2",
+    "author": "Shelley",
+    "publishing-year": "2013",
+    "publisher": "Nehal Ughade",
+    "shopping-link": "https://www.amazon.in/gp/product/0766040844/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_in-21&linkCode=as2&camp=3626&creative=24790",
+    "download-link": "https://drive.google.com/file/d/0B3dBEuS_INzOU3EybHVONEpkYzg/view?resourcekey=0-W_h-Aav9MXu4eBN-aoWcdQ"
+},
+"around the world in eighty days": {
+    "id": 49,
+    "name": "Around the World in Eighty Days",
+    "number-pages": 130,
+    "author": "Jules Verne",
+    "publishing-year": "1872",
+    "shopping-link": "https://www.amazon.in/Around-World-Eighty-Jules-Verne/dp/8175993936/ref=sr_1_2?crid=84ON5LKWED2R&keywords=around+the+world+in+80+days+by+jules+verne&qid=1664563986&qu=eyJxc2MiOiIyLjg1IiwicXNhIjoiMi4wOSIsInFzcCI6IjEuNTUifQ%3D%3D&sprefix=around+the+world+in+80+days%2Caps%2C222&sr=8-2",
+    "download-link": "https://www.gutenberg.org/ebooks/103"
+},
+"i am malala": {
+    "id": 23,
+    "number-pages": 327,
+    "name": "I am malala",
+    "author": "Malala Yousafzai",
+    "publishing-year": "2013",
+    "publisher": "Weidenfeld & Nicolson (UK) Little, Brown and Company (US)",
+    "shopping-link": "https://www.amazon.in/Am-Malala-Stood-Education-Taliban/dp/1780226586/ref=asc_df_1780226586/?tag=googleshopdes-21&linkCode=df0&hvadid=397083491927&hvpos=&hvnetw=g&hvrand=17077502091211482814&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-369816643388&psc=1&ext_vrnc=hi",
+    "download-link": "https://www.booksfree.org/i-am-malala-pdf-free-download-a/"
+},
+"ramayan":  {
+    "id": 35,
+    "number-pages": 1055,
+    "name": "ramayan",
+    "author": "Valmiki",
+    "publishing-year": "1992",
+    "publisher": "geeta press",
+    "shopping-link": "https://www.amazon.in/gorakhpur-ramcharitmanas-Tulsidas-Ramcharitmanas-Hardcover/dp/B09BD6P7M3/ref=asc_df_B09BD6P7M3/?tag=googleshopdes-21&linkCode=df0&hvadid=545392427274&hvpos=&hvnetw=g&hvrand=12548556514743239659&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-1541807510306&psc=1",
+    "download-link": "https://www.amazon.in/gorakhpur-ramcharitmanas-Tulsidas-Ramcharitmanas-Hardcover/dp/B09BD6P7M3/ref=asc_df_B09BD6P7M3/?tag=googleshopdes-21&linkCode=df0&hvadid=545392427274&hvpos=&hvnetw=g&hvrand=12548556514743239659&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-1541807510306&psc=1"
+}
+}
