@@ -1,5 +1,6 @@
 [
     {
+        "image": "https://th.bing.com/th/id/R.0ae704bd7bbe17873931e182cf4837d2?rik=y2Cdga4DHmg2Qg&pid=ImgRaw&r=0",
         "number-pages": 447,
         "name": "The Shining",
         "author": "Stephen King",
@@ -8,7 +9,8 @@
         "shopping-link": "https://www.amazon.in/Shining-Stephen-King/dp/0307743659/ref=tmm_mmp_swatch_0?_encoding=UTF8&qid=&sr=",
         "download-link": "https://book4you.org/book/3856268/1b354b"
         },
-     {
+    {
+        "image": "https://th.bing.com/th/id/R.6c58f1a1a6360c10c3297011c5906cc8?rik=aXXENkmH5iEA5Q&pid=ImgRaw&r=0",
         "id": 112,
         "name": "The Time Machine 2.0",
         "number-pages": 117,
@@ -19,6 +21,7 @@
         "download-link": "https://www.planetebook.com/free-ebooks/the-time-machine.pdf"
     },
   {
+        "image": "https://cdn2.penguin.com.au/covers/original/9781784874575.jpg",
         "name": "The Time Machine returns",
         "number-pages": 117,
         "author": "H G Wells",
@@ -27,7 +30,8 @@
         "shopping-link": "https://www.amazon.in/Time-Machine-H-G-Wells/dp/8175992956/ref=sr_1_37?keywords=amazon+store+book&qid=1665083751&qu=eyJxc2MiOiIxLjUxIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=%2Caps%2C775&sr=8-37",
         "download-link": "https://www.planetebook.com/free-ebooks/the-time-machine.pdf"
     },
-   {
+    {
+        "image": "https://cdn2.penguin.com.au/covers/original/9781784874575.jpg",
         "id": 111,
         "name": "The Time Machine",
         "number-pages": 117,
@@ -38,6 +42,7 @@
         "download-link": "https://www.planetebook.com/free-ebooks/the-time-machine.pdf"
     },
     {
+        "image": "https://th.bing.com/th/id/R.486b839fc737e54d5a8ceed3e91c9ad3?rik=Uy95Ul0zL3PMtw&pid=ImgRaw&r=0",
         "id": 108,
         "name": "The Black Sheep",
         "number-pages": 307,
@@ -48,6 +53,7 @@
         "download-link": "https://www.globalgreyebooks.com/black-sheep-ebook.html#downloads"
     },
     {
+        "image": "https://th.bing.com/th/id/R.cd48452eb1576b0ea87277ebc2499e25?rik=XEaFZjtREu%2fzwA&pid=ImgRaw&r=0",
         "id": 107,
         "name": "ReWork",
         "number-pages": 288,
@@ -57,7 +63,8 @@
         "shopping-link": "https://www.amazon.in/ReWork-Change-Way-Work-Forever/dp/0091929784",
         "download-link": "https://book4you.org/book/1257901/7b4737"
     },
-     {
+    {
+        "image": "https://i.pinimg.com/736x/21/1e/42/211e42c7f73892d3be90b2ece83c8572.jpg",
         "id": 106,
         "name": "Panipat",
         "number-pages": 321,
@@ -68,7 +75,8 @@
         "download-link": "https://www.amazon.in/Panipat-Vishwas-Patil/dp/8174349065"
     },
     
-    {
+   {
+        "image": "https://th.bing.com/th/id/R.5e5b56e94671eb904d8e7e35147cb6ac?rik=2pbC2H7%2bGYMv3Q&pid=ImgRaw&r=0",
         "id": 104,
         "name": "The Power of Your Subconscious Mind",
         "number-pages": 232,
@@ -77,7 +85,8 @@
         "shopping-link": "https://www.amazon.in/Power-Your-Subconscious-Mind/dp/8194790832/ref=pd_bxgy_img_sccl_2/257-9410164-9142465?pd_rd_w=V1GHM&content-id=amzn1.sym.d68c4347-8b80-4998-9474-4671a1e32e96&pf_rd_p=d68c4347-8b80-4998-9474-4671a1e32e96&pf_rd_r=ARG36NKSH8MCKP47SRD5&pd_rd_wg=TLwtY&pd_rd_r=b3754809-0d3b-47e0-a654-6afd00057d9c&pd_rd_i=8194790832&psc=1",
         "download-link": "https://instapdf.in/the-power-of-subconscious-mind/"
     },
-   {
+    {
+        "image": "https://th.bing.com/th/id/OIP.ftGEfjOBIQ5RUnaBjMtA_gAAAA?pid=ImgDet&w=294&h=450&rs=1",
         "id": 101,
         "name": "The Fault in our stars",
         "number-pages": 336,
@@ -88,6 +97,7 @@
         "download-link": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjtmIbBt8H6AhUbSmwGHWhcAMIQFnoECB4QAQ&url=https%3A%2F%2Fbooks-library.net%2Ffiles%2Fbooks-library.online-12292230Vr3R6.pdf&usg=AOvVaw3VLeA6GpLJFh2LGZfxFJBG"
     },
     {
+        "image": "https://th.bing.com/th/id/R.6b7b98df4365a8c3c9c86a1b3b86adab?rik=q%2bZb8yzk8UKDnA&pid=ImgRaw&r=0",
         "id": 100,
         "name": "Attitude is everything",
         "number-pages": 144,
@@ -96,7 +106,8 @@
         "shopping-link": "https://www.amazon.in/Attitude-Everything-Change-Your-Life/dp/9351772071",
         "download-link": "https://www.pdfnotes.co/attitude-is-everything-book/"
     },
- {
+    {
+        "image": "https://th.bing.com/th/id/R.7b99780eeb78d1b93fcb12422266afb6?rik=PRcOpg2%2b5nsEtA&pid=ImgRaw&r=0",
         "id": 98,
         "name": "Think and Grow Rich",
         "number-pages": 238,
@@ -106,7 +117,8 @@
         "shopping-link": "https://www.amazon.in/Think-Grow-Rich-Napoleon-Hill/dp/8192910911/ref=asc_df_8192910911/?tag=googleshopdes-21&linkCode=df0&hvadid=397010195686&hvpos=&hvnetw=g&hvrand=996060341805705978&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20464&hvtargid=pla-318314934946&psc=1&ext_vrnc=hi",
         "download-link": "https://apex.oracle.com/pls/apex/lonestar/r/files/static/v13Y/Think-And-Grow-Rich_2011-06.pdf"
     },
-  {
+    {
+        "image": "https://th.bing.com/th/id/R.6eb579bc1dbcb3a626e6773024a7b20e?rik=JaEpK%2b8HcRbCKg&pid=ImgRaw&r=0",
         "id": 97,
         "name": "Think Like A Monk",
         "number-pages": 352,
@@ -116,7 +128,8 @@
         "shopping-link": "https://www.amazon.in/Think-Like-Monk-Jay-Shetty/dp/0008386595/ref=sr_1_3?keywords=think+like+a+monk&qid=1664788313&qu=eyJxc2MiOiIyLjA3IiwicXNhIjoiMS40NCIsInFzcCI6IjEuMDkifQ%3D%3D&sprefix=think+%2Caps%2C356&sr=8-3",
         "download-link": "https://icrrd.com/media/16-05-2021-072848Think-Like-a-Monk.pdf"
     },
-   {
+    {
+        "image": "https://i.ebayimg.com/images/g/w4AAAOSwiV9jTt-5/s-l500.jpg",
         "id": 96,
         "name": "Never Be Boring Again",
         "number-pages": 352,
@@ -126,6 +139,7 @@
         "download-link": "https://public.summaries.com/files/1-page-summary/never-be-boring-again.pdf"
     },
      {
+        "image": "https://s3.amazonaws.com/titlepages.leanpub.com/web-hacking-101/hero?1520822907",
         "id": 93,
         "name": "Web Hacking 101",
         "number-pages": 255,
@@ -135,6 +149,7 @@
         "download-link": "https://digtvbg.com/files/books-for-hacking/Web%20Hacking%20101%20-%20How%20to%20Make%20Money%20Hacking%20Ethically%20by%20Peter%20Yaworski.pdf"
     },
      {
+        "image": "https://th.bing.com/th/id/R.8a6475cd62949a9265697c490b9cbc55?rik=eG2iBJUUI1Xb1g&pid=ImgRaw&r=0",
         "id": 92,
         "name": "The Cat people",
         "number-pages": 320,
@@ -144,6 +159,7 @@
         "download-link": "https://www.simonandschuster.com/books/Cat-People/Devapriya-Roy/9789392099137"
     },
     {
+        "image": "https://th.bing.com/th/id/R.5ebbdbf36c63df0b7dbf3cd1e2763988?rik=Jbuzsht9i%2fJ64Q&pid=ImgRaw&r=0",
         "id": 92,
         "name": "Five Point Someone",
         "number-pages": 270,
@@ -153,15 +169,17 @@
         "download-link": "https://www.pdfdrive.com/five-point-someone-d14979218.html"
     },
      {
+        "image": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/3/0/9/3/9200000033933903.jpg",
         "id": 100,
-        "name": "One Night at the call centre",
+        "name": "One Night at the call center",
         "number-pages": 267,
         "author": "Chetan Bhagat",
         "publishing-year": "2005",
         "shopping-link": "https://www.amazon.in/Night-Call-Centre-Chetan-Bhagat/dp/8129135507",
         "download-link": "https://hum14.files.wordpress.com/2008/11/one-night-at-call-centre.pdf"
     },
-    {
+     {
+        "image": "https://th.bing.com/th/id/R.b9b9a1a9371ef02d1d9088adef487dc1?rik=L4X%2bvPcUcHGUIA&pid=ImgRaw&r=0",
         "id": 92,
         "number-pages": 335,
         "name": "Reminders of Him",
@@ -172,6 +190,7 @@
         "download-link": "https://ebooksheep.com/2022/01/18/reminders-of-him-by-colleen-hoover-epub-download/"
     },
      {
+        "image": "https://th.bing.com/th/id/OIP.0W2rmXA6QJejOg3uLmL1vgAAAA?pid=ImgDet&rs=1",
         "id": 90,
         "name": "JavaScript: JavaScript For Beginners",
         "number-pages": 115,
@@ -180,7 +199,8 @@
         "shopping-link": "https://www.amazon.in/JavaScript-Beginners-Everything-Language-Programming/dp/1548799386",
         "download-link": "https://www.pdfdrive.com/javascript-javascript-for-beginners-learn-javascript-programming-with-ease-in-half-the-time-everything-about-the-language-coding-programming-and-web-pages-you-need-to-know-e158299863.html"
     },
-     {
+    {
+        "image": "https://th.bing.com/th/id/R.423d8c7c863d7d075d44014d19d50dc8?rik=so6KkLeYdpgqTA&pid=ImgRaw&r=0",
         "id": 87,
         "name": "Wings of Fire",
         "number-pages": 180,
@@ -190,6 +210,7 @@
         "download-link": "https://ati.dae.gov.in/ati12052021_8.pdf"
     },
      {
+        "image": "https://th.bing.com/th/id/R.4ccecd5b7ef0cddba523d271c4cf4599?rik=IR1ZNM7%2bsZ%2fFiA&pid=ImgRaw&r=0",
         "id": 85,
         "name": "White Nights",
         "number-pages": 283,
@@ -199,6 +220,7 @@
         "download-link": "https://www.holybooks.com/wp-content/uploads/White-Nights-And-Other-Stories.pdf"
     },
      {
+        "image": "https://th.bing.com/th/id/OIP.Zgi1UAEBus6NCF6IJNQi7QHaKa?pid=ImgDet&rs=1",
         "id": 77,
         "number-pages": 300,
         "name": "sherlocks homes",
@@ -208,7 +230,8 @@
         "shopping-link": "https://www.amazon.com/Isle-Dead-Ships-Crittenden-MARRIOTT/dp/B000HX1MBG",
         "download-link": "https://www.gutenberg.org/ebooks/69065"
     },
-     {
+   {
+        "image": "https://th.bing.com/th/id/R.83c71ab9771bd71e37d6c9869c18e2b6?rik=NzjxVmrBjEbdOw&pid=ImgRaw&r=0",
         "id": 76,
         "name": "Algorithms to Live By: The Computer Science of Human Decisions",
         "number-pages": 376,
@@ -217,7 +240,8 @@
         "shopping-link": "https://www.amazon.com/Algorithms-to-Live-By-audiobook/dp/B01D24NAL6",
         "download-link": "https://www.pdfdrive.com/algorithms-to-live-by-the-computer-science-of-human-decisions-e33410583.html"
     },
-    {
+  {
+        "image": "https://th.bing.com/th/id/R.8b136be5a7c8d99c8b178e2025989b19?rik=x2p6j41FzfZ85w&riu=http%3a%2f%2fd28hgpri8am2if.cloudfront.net%2fbook_images%2fcvr9781416562603_9781416562603_hr.jpg&ehk=zh%2bGoN%2bFwOEIU9H80Lj4VI1waS3Wcuf4Lbvl8BIhnNI%3d&risl=&pid=ImgRaw&r=0",
         "id": 75,
         "name": "The White Tiger",
         "number-pages": 512,
@@ -227,7 +251,8 @@
         "shopping-link": "https://www.amazon.in/White-Tiger-Novel-Booker-Prize/dp/1416562605",
         "download-link": "https://www.amazon.in/White-Tiger-Novel-Booker-Prize/dp/1416562605"
     },
-     {
+      {
+        "image": "https://i.ebayimg.com/images/g/Nl4AAOSwEBJjKKqm/s-l500.png",
         "id": 74,
         "name": "The Setup",
         "number-pages": 512,
@@ -237,6 +262,7 @@
         "download-link": "https://drive.google.com/file/d/1JSxA0Y7Igo1A4lZrblNfnYhM3qGKzFHa/view?usp=sharing"
     },
      {
+        "image": "https://th.bing.com/th/id/R.19d2ad11b3d3702de55e2b27f721bd1c?rik=N0AuBge3d0p0nw&pid=ImgRaw&r=0",
         "id": 72,
         "name": "The Famous Five",
         "number-pages": 458,
@@ -246,7 +272,8 @@
         "shopping-link": "https://www.amazon.com/famous-five-Enid-Blyton/dp/2830202848",
         "download-link": "https://booksvooks.com/series/the-famous-five/"
     },
-    {
+  {
+        "image": "https://n4.sdlcdn.com/imgs/i/h/e/Rich-Dad-Poor-Dad-Paperback-SDL880837687-1-1f528.jpeg",
         "id": 71,
         "name": "Rich Dad Poor Dad",
         "number-pages": 243,
@@ -255,7 +282,8 @@
         "shopping-link": "https://www.amazon.in/Rich-Dad-Poor-Middle-Updates/dp/1612680194",
         "download-link": "https://www.pdfdrive.com/rich-dad-poor-dad-e136494023.html"
     },
-    {
+     {
+        "image": "https://th.bing.com/th/id/R.e51c2b9cb8685be261ed83d1f0be2901?rik=D3fwwUJTEr3tEQ&pid=ImgRaw&r=0",
         "id": 69,
         "number-pages": 336,
         "name": "The 5 AM Club",
@@ -265,7 +293,8 @@
         "shopping-link": "https://www.amazon.in/AM-Club-Your-Morning-Elevate/dp/9387944891/ref=sr_1_3?keywords=the+5+am+club&qid=1664566452&qu=eyJxc2MiOiIxLjUzIiwicXNhIjoiMS4xMSIsInFzcCI6IjAuOTcifQ%3D%3D&sprefix=the+5+am%2Caps%2C276&sr=8-3",
         "download-link": "https://www.pdfnotes.co/the-5am-club/"
     },
-    {
+     {
+        "image": "https://th.bing.com/th/id/R.9f3deeb461e9400204af7d748b4bcb63?rik=f1ovPaocCl4OGA&pid=ImgRaw&r=0",
         "id": 67,
         "number-pages": 152,
         "name": "The Subtle Art of Not Giving a F*ck",
@@ -275,7 +304,8 @@
         "shopping-link": "https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713",
         "download-link": "https://www.pdfdrive.com/the-subtle-art-of-not-giving-a-fuck-by-mark-manson-e200835181.html"
     },
-   {
+     {
+        "image": "https://th.bing.com/th/id/R.2e60438b288a4e9e55a2c6115d15ea62?rik=E1kde%2fePK5fJMg&pid=ImgRaw&r=0",
         "id": 66,
         "name": "mein kampf",
         "number-pages": 2000,
@@ -284,7 +314,8 @@
         "shopping-link": "https://www.google.com/search?q=mein+kampf&sxsrf=ALiCzsalRrqu0qkJkfgwU1h-K9ESDgOdww:1664567684092&source=lnms&tbm=shop&sa=X&ved=2ahUKEwj7847spb36AhVOSmwGHTmSCYsQ_AUoAXoECAEQAw&biw=767&bih=704&dpr=1.25",
         "download-link": "https://greatwar.nl/books/meinkampf/meinkampf.pdf"
     },
-    {
+     {
+        "image": "https://i.ebayimg.com/images/g/GT0AAOSwg9ZjNfl6/s-l500.jpg",
         "id": 65,
         "name": "Deep Work",
         "number-pages": 290,
@@ -293,7 +324,8 @@
         "shopping-link": "https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692",
         "download-link": "https://www.pdfdrive.com/deep-work-cal-newport-e33410582.html"
     },
-     {
+    {
+        "image": "https://th.bing.com/th/id/R.051fca7e31cbb22250edda4658b7e1aa?rik=N2QF8fECzr05Ig&pid=ImgRaw&r=0",
         "id": 64,
         "number-pages": 312,
         "name": "One Arragned Murder",
@@ -304,6 +336,7 @@
         "download-link": "https://ia801704.us.archive.org/3/items/SC_10042/%5BStudyCrux.com%5D%20One%20Arranged%20Murder%20by%20Chetan%20Bhagat-X.pdf"
       },
      {
+        "image": "https://th.bing.com/th/id/R.5b59e0885d8091068eefc098f720b51d?rik=DY%2fqFLat2l4G0Q&pid=ImgRaw&r=0",
         "id": 63,
         "number-pages": 336,
         "name": "To Kill a Mockingbird",
@@ -313,7 +346,8 @@
         "shopping-link": "https://www.amazon.com/s/ref=x_gr_w_bb_sout?tag=x_gr_w_bb_sout-20&creative=374001&campaign=211041&adid=082VK13VJJCZTQYGWWCZ&index=books&keyword=To+Kill+a+Mockingbird",
         "download-link": "https://bookanalysis.com/harper-lee/to-kill-a-mockingbird/"
     },
-  {
+     {
+        "image": "https://th.bing.com/th/id/R.6d0a23da59e29c681ff85cde45f3c233?rik=WFeoVcfrvINtcA&pid=ImgRaw&r=0",
         "id": 62,
         "number-pages": 96,
         "name": "Mindset",
@@ -324,6 +358,7 @@
         "download-link": "https://drive.google.com/file/d/0B3dBEuS_INzOU3EybHVONEpkYzg/view?resourcekey=0-W_h-Aav9MXu4eBN-aoWcdQ"
     },
      {
+        "image": "https://i.ebayimg.com/images/g/BtwAAOSw4A9jPN5j/s-l500.png",
         "id": 60,
         "number-pages": 96,
         "name": "Mindbody 2",
@@ -334,6 +369,7 @@
         "download-link": "https://drive.google.com/file/d/0B3dBEuS_INzOU3EybHVONEpkYzg/view?resourcekey=0-W_h-Aav9MXu4eBN-aoWcdQ"
     },
     {
+        "image": "https://th.bing.com/th/id/OIP.rRKe5BDGLgI24SNDu4yf-gAAAA?pid=ImgDet&rs=1",
         "id": 56,
         "number-pages": 192,
         "name": "American Sign Language for Beginners",
@@ -344,16 +380,18 @@
         "download-link": "https://books.google.co.in/books/about/American_Sign_Language_for_Beginners.html?id=JO5XyQEACAAJ&source=kp_book_description&redir_esc=y"
     },
     {
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982146160/frankenstein-9781982146160_hr.jpg",
         "id": 57,
         "number-pages": 96,
         "name": "Frankenstein",
-        "author": "Mary Shelley",
+        "author": "Stephen King",
         "publishing-year": "2013",
         "publisher": "Enslow Publishing",
         "shopping-link": "https://www.amazon.in/gp/product/0766040844/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_in-21&linkCode=as2&camp=3626&creative=24790",
         "download-link": "https://drive.google.com/file/d/0B3dBEuS_INzOU3EybHVONEpkYzg/view?resourcekey=0-W_h-Aav9MXu4eBN-aoWcdQ"
     },
-    {
+   {
+        "image": "https://litbooks.com.my/wp-content/uploads/2020/03/book-image-9848.jpg",
         "id": 55,
         "name": "The Lord of the Rings",
         "number-pages": 480,
@@ -363,7 +401,8 @@
         "shopping-link": "https://www.amazon.in/Lord-Rings-J-R-Tolkien/dp/0008471282",
         "download-link": "https://books.google.co.in/books/about/The_lord_of_the_rings.html?id=7iS1CCpHrJgC&redir_esc=y"
     },
-    {
+     {
+        "image": "https://th.bing.com/th/id/OIP.6f8agz-5orm2e-x2srJvAgHaLD?pid=ImgDet&rs=1",
         "id": 50,
         "name": "Diary of a Wimpy Kid",
         "number-pages": 512,
@@ -374,6 +413,7 @@
         "download-link": "https://wimpykid.com/"
     },
     {
+        "image": "https://th.bing.com/th/id/OIP.CFoK_xldCsuxiMB-70PA3wHaLf?pid=ImgDet&rs=1",
         "id": 57,
         "number-pages": 384,
         "name": "The Martian",
@@ -383,7 +423,8 @@
         "shopping-link": "https://www.amazon.in/Martian-Novel-Andy-Weir/dp/0804139024",
         "download-link": "https://www.readingsanctuary.com/the-martian-ebook/"
     },
-  {
+     {
+        "image": "https://th.bing.com/th/id/R.5dc1b0e755c5fa3c0977e96ecd728341?rik=eTAAqtO8smrf1g&pid=ImgRaw&r=0",
         "id": 60,
         "number-pages": 206,
         "name": "The Secret",
@@ -393,7 +434,8 @@
         "shopping-link": "https://www.amazon.in/Secret-Rhonda-Byrne/dp/1847370292/ref=sr_1_2?crid=15KC3MPGJPDWR&keywords=the+secret+book+english&qid=1664564305&qu=eyJxc2MiOiIzLjQzIiwicXNhIjoiMy41NiIsInFzcCI6IjMuMDUifQ%3D%3D&sprefix=the+secret+%2Caps%2C633&sr=8-2",
         "download-link": "https://addictbooks.com/the-secret-book-pdf-free-download-rhonda-byrne/"
     },
-    {
+     {
+        "image": "https://th.bing.com/th/id/R.6ca7ccbafa130da0f11610c3a62c88ff?rik=cBeDaMWAhnO7Ew&pid=ImgRaw&r=0",
         "id": 43,
         "name": "Practicing Mind",
         "number-pages": 98,
@@ -403,6 +445,7 @@
         "download-link": "https://pdflake.com/the-practicing-mind-pdf-book/"
     },
     {
+        "image": "https://th.bing.com/th/id/R.e2fb19e17d3ebe7474fab6ffd64cf39d?rik=MKxL%2fTF9FyeMNw&riu=http%3a%2f%2fmedia.npr.org%2fassets%2fbakertaylor%2fcovers%2ft%2fthe-great-gatsby%2f9780743273565_custom-s6-c30.jpg%3ft%3d1340884943&ehk=x7b%2b%2faf8NdN5us65JxIEJ587eMX55Yl%2f9UWVE137Cbc%3d&risl=&pid=ImgRaw&r=0",
         "id": 41,
         "name": "The Great Gatsby",
         "number-pages": 200,
@@ -411,7 +454,8 @@
         "shopping-link": "https://www.amazon.in/Gatsby-Fitzgerald-Hardcover-International-Bestseller/dp/9391626351/ref=asc_df_9391626351/?tag=googleshopdes-21&linkCode=df0&hvadid=586385285702&hvpos=&hvnetw=g&hvrand=67477073752252646&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007786&hvtargid=pla-1653658130611&psc=1",
         "download-link": "https://www.google.com/search?q=The+Great+Gatsby+download&client=ubuntu&hs=iw3&sa=X&channel=fs&biw=1538&bih=783&tbm=shop&ei=yzI3Y8ffBprn4-EPsqme8AI&ved=0ahUKEwiH8a6WkL36AhWa8zgGHbKUBy4Q4dUDCAU&uact=5&oq=The+Great+Gatsby+download&gs_lcp=Cgtwcm9kdWN0cy1jYxADMggIABAeEBYQGDoHCAAQsAMQQzoICAAQgAQQsAM6BAgAEEM6BQgAEIAEOgQIABAYSgQIQRgBUJ0EWI0bYNUcaAZwAHgAgAHQAYgB0xWSAQUwLjYuOJgBAKABAcgBCsABAQ&sclient=products-cc"
     },
-   {
+    {
+        "image": "https://th.bing.com/th/id/R.37d228b5426ad159de79b0bc31d44133?rik=4gYuWQe5qD42qA&riu=http%3a%2f%2fd28hgpri8am2if.cloudfront.net%2fbook_images%2fcvr9780689825521_9780689825521_hr.jpg&ehk=oHURgALrnT457e8ZTmsMdh6GA0zJeOjyl6eAWaHl2Qo%3d&risl=1&pid=ImgRaw&r=0",
         "id": 40,
         "number-pages": 24,
         "name": "Peace",
@@ -421,7 +465,8 @@
         "shopping-link": "https://www.amazon.in/Lou/dp/B075FZDHPZ",
         "download-link": "https://www.linkedin.com/in/louwang?original_referer=https%3A%2F%2Fwww.google.com%2F"
     },
-   {
+     {
+        "image": "https://th.bing.com/th/id/R.d5689ce634c7b091e2a9affeab50d9e4?rik=E3mVvFDIGB%2bNkQ&pid=ImgRaw&r=0",
         "id": 39,
         "number-pages": 336,
         "name": "Ugly Love",
@@ -431,7 +476,8 @@
         "shopping-link": "https://www.flipkart.com/ugly-love/p/itm37b4caa6102e6?pid=RBKGC4RKCQD4TVWY&lid=LSTRBKGC4RKCQD4TVWYSM6QVG&marketplace=FLIPKART&cmpid=content_regionalbooks_18440873650_u_8965229628_gmc_pla&tgi=sem,1,G,11214002,u,,,624398499082",
         "download-link": "https://ia804505.us.archive.org/27/items/1_20210822_20210822_1607/PDFORALL.COM-Ugly%20Love%20by%20Colleen%20Hoover.pdf"
     },
-     {
+    {
+        "image": "https://3.bp.blogspot.com/-3TgdNWgmwic/T9rSfeRROsI/AAAAAAAAABg/bbxqMc5ye4Q/s1600/The-Monk-Who-Sold-His-Ferra.jpg",
         "id": 30,
         "number-pages": 228,
         "name": "The Monk Who Sold His Ferrari",
@@ -441,7 +487,8 @@
         "shopping-link": "https://www.amazon.in/Monk-Who-Sold-His-Ferrari/dp/0062515675",
         "download-link": "https://www.apnamba.com/Ebooks-pdf/The%20Monk%20who%20sold%20his%20ferrari%20-%20Robin%20Sharma%20(PDF)%20%5BQwerty80%5D.pdf"
     },
-     {
+   {
+        "image": "https://th.bing.com/th/id/R.7ef39ef512b23b80ba9c3a93bc25886a?rik=TZTGtTXbfzfL0g&riu=http%3a%2f%2fwww.yogeshsarkar.com%2fblog%2fwp-content%2fuploads%2f2016%2f02%2fwar-and-peace-leo-tolstoy.jpg&ehk=jWaheoWsSYAAOlzp%2b1QCn8D3NIXbUBdrrH9774e4220%3d&risl=&pid=ImgRaw&r=0",
         "id": 27,
         "number-pages": 245,
         "name": "War and Peace",
@@ -451,7 +498,8 @@
         "shopping-link": "https://www.amazon.in/War-Peace-Leo-Tolstoy/dp/8175992832",
         "download-link": "https://www.planetebook.com/war-and-peace/"
     },
-   {
+    {
+        "image": "https://th.bing.com/th/id/R.028990eb88ee6893b98171b304556ae4?rik=Z4hO0ZDoCdaVLw&pid=ImgRaw&r=0",
         "id": 25,
         "number-pages": 646,
         "name": "It Ends With Us",
@@ -462,6 +510,7 @@
         "download-link": "https://docer.tips/it-ends-with-us-colleen-hoover-eng-pdf.html"
     },
      {
+        "image": "https://kbimages1-a.akamaihd.net/efc87501-c3ac-451a-9b29-842a6b8ce27f/1200/1200/False/who-moved-my-cheese.jpg",
         "id": 22,
         "number-pages": 200,
         "name": "Who moved my cheeses",
@@ -471,16 +520,7 @@
         "download-link": "https://en.wikipedia.org/wiki/Who_Moved_My_Cheese%3F"
     },
      {
-        "id": 18,
-        "number-pages": 245,
-        "name": "4 states",
-        "author": "chetan kashid",
-        "publishing-year": "2010",
-        "publisher": "pika publi.",
-        "shopping-link": "https://www.amazon.in/2-States-Story-My-Marriage/dp/8129135523",
-        "download-link": "https://instapdf.in/two-states-by-chetan-bhagat/"
-    },
-    {
+        "image": "https://i.pinimg.com/736x/04/ac/f7/04acf790c3c17369dbb0e577efd8d8dc.jpg",
         "id": 16,
         "number-pages": 240,
         "name": "2 states",
@@ -491,6 +531,7 @@
         "download-link": "https://instapdf.in/two-states-by-chetan-bhagat/"
     },
      {
+        "image": "https://th.bing.com/th/id/OIP.zi-PGTTWmwF5rALhDVpMHwAAAA?pid=ImgDet&rs=1",
         "id": 15,
         "number-pages": 265,
         "name": "Theory of Relativity",
@@ -500,7 +541,8 @@
         "shopping-link": "https://www.amazon.com/General-Theory/dp/B000HX1MBG",
         "download-link": "https://www.gutenberg.org/ebooks/6906500"
     },
-      {
+     {
+        "image": "https://th.bing.com/th/id/R.0db163bf3574f4b42b5a985ae4adc7ab?rik=sZBB2IqSxUZoug&pid=ImgRaw&r=0",
         "id": 14,
         "number-pages": 671,
         "name": "Crime and Punishment",
@@ -510,7 +552,8 @@
         "shopping-link": "https://www.amazon.in/Punishment-Penguin-Classics-Fyodor-Dostoyevsky/dp/0140449132",
         "download-link": "https://www.planetebook.com/crime-and-punishment/"
     },
-     {
+    {
+        "image": "https://th.bing.com/th/id/R.bef0e5597112d6c81eede5e5211d251d?rik=lfcED5g6Bg3gGA&pid=ImgRaw&r=0",
         "id": 6,
         "number-pages": 99,
         "name": "Isel of Dead Ships",
@@ -520,7 +563,8 @@
         "shopping-link": "https://www.amazon.com/Isle-Dead-Ships-Crittenden-MARRIOTT/dp/B000HX1MBG",
         "download-link": "https://www.gutenberg.org/ebooks/69065"
     },
-      {
+     {
+        "image": "https://th.bing.com/th/id/R.547410e876b40aa89a8857f4c3e8faa1?rik=v0JI0Jpv%2bk9G%2bQ&pid=ImgRaw&r=0",
         "id": 49,
         "name": "Around the World in Eighty Days",
         "number-pages": 130,
@@ -529,17 +573,8 @@
         "shopping-link": "https://www.amazon.in/Around-World-Eighty-Jules-Verne/dp/8175993936/ref=sr_1_2?crid=84ON5LKWED2R&keywords=around+the+world+in+80+days+by+jules+verne&qid=1664563986&qu=eyJxc2MiOiIyLjg1IiwicXNhIjoiMi4wOSIsInFzcCI6IjEuNTUifQ%3D%3D&sprefix=around+the+world+in+80+days%2Caps%2C222&sr=8-2",
         "download-link": "https://www.gutenberg.org/ebooks/103"
     },
-     {
-        "id": 57,
-        "number-pages": 384,
-        "name": "The Martian",
-        "author": "Andy Weir",
-        "publishing-year": "2011",
-        "publisher": "Crown Publishing Group",
-        "shopping-link": "https://www.amazon.in/Martian-Novel-Andy-Weir/dp/0804139024",
-        "download-link": "https://www.readingsanctuary.com/the-martian-ebook/"
-    },
-     {
+  {
+        "image": "https://4.bp.blogspot.com/-2kAfh1dgfOw/VCz3z6pYFmI/AAAAAAAAB_U/hDqD9i_mlNQ/s1600/IMG_5912.JPG",
         "id": 56,
         "number-pages": 283,
         "name": "Bossypants",
@@ -549,7 +584,8 @@
         "shopping-link": "https://www.amazon.in/Bossypants-Tina-Fey/dp/0751547832",
         "download-link": "https://www.d-pdf.com/book/2366/read"
     },
-   {
+    {
+        "image": "https://th.bing.com/th/id/R.f0903ddd5c7d43479d8d08e8a410164b?rik=9eTKsRTxDeoo3A&pid=ImgRaw&r=0",
         "id": 32,
         "number-pages": 208,
         "name": "The Alchemist (novel)",
@@ -559,7 +595,8 @@
         "shopping-link": "https://www.amazon.in/Alchemist-Paulo-Coelho/dp/0007487940/ref=asc_df_0007487940/?tag=googleshopdes-21&linkCode=df0&hvadid=396989136123&hvpos=&hvnetw=g&hvrand=6639694956872266551&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-835610978096&psc=1&ext_vrnc=hi",
         "download-link": "https://www.amazon.in/Alchemist-Paulo-Coelho-ebook/dp/B00U6SFUSS/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr="
     },
-    {
+     {
+        "image": "https://th.bing.com/th/id/R.b0c3d2b9cd33cee3bfa4e46508a16844?rik=KgjsyuTIa49ElQ&pid=ImgRaw&r=0",
         "id": 45,
         "number-pages": 368,
         "author": "Jo Marchant",
@@ -568,7 +605,8 @@
         "shopping-link": "https://www.amazon.in/Human-Cosmos-Secret-History-Stars/dp/1786894025",
         "download-link": "https://www.goodreads.com/book/show/50165550-the-human-cosmos"
     },
-      {
+     {
+        "image": "https://th.bing.com/th/id/R.300bbe6354ce780c693792f78812e3d1?rik=7w5SQcDcO2ZiLw&pid=ImgRaw&r=0",
         "id": 26,
         "number-pages": 265,
         "name": "Alchemist",
@@ -579,6 +617,7 @@
         "download-link": "https://www.gutenberg.org/ebooks/69065"
     },
      {
+        "image": "https://th.bing.com/th/id/OIP.364cQpFkZMRyFu1Yv_mjdwHaL1?pid=ImgDet&rs=1",
         "id": 88,
         "name": "Around India in 80 Trains",
         "number-pages": 264,
@@ -587,7 +626,8 @@
         "shopping-link": "https://www.amazon.in/Around-India-Trains-Monisha-Rajesh/dp/8174369139",
         "download-link": "https://b-ok.asia/book/2080481/2c740c"
     },
-     {
+    {
+        "image": "https://th.bing.com/th/id/R.bb58ef81087f4b9cc84777b8b97e6837?rik=W5l0QQA39OT8kw&pid=ImgRaw&r=0",
         "id": 79,
         "number-pages": 310,
         "name": "The Hobbit",
@@ -597,7 +637,8 @@
         "shopping-link": "https://www.google.co.in/books/edition/The_Hobbit/CixXEAAAQBAJ?hl=en",
         "download-link": "https://www.pdfdrive.com/the-hobbit-e17592270.html"
     },
- {
+     {
+        "image": "https://th.bing.com/th/id/OIP.hl22YJc_lxkg5tDQl8rSDQHaK6?pid=ImgDet&rs=1",
         "id": 68,
         "number-pages": 381,
         "name": "Norwegian Woods",
@@ -606,26 +647,8 @@
         "publisher": "Kodansha",
         "shopping-link": "https://www.amazon.in/Norwegian-Wood-Haruki-Murakami/dp/0099448823"
     },
-    {
-        "id": 60,
-        "number-pages": 96,
-        "name": "Mindbody 2",
-        "author": "Shelley",
-        "publishing-year": "2013",
-        "publisher": "Nehal Ughade",
-        "shopping-link": "https://www.amazon.in/gp/product/0766040844/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_in-21&linkCode=as2&camp=3626&creative=24790",
-        "download-link": "https://drive.google.com/file/d/0B3dBEuS_INzOU3EybHVONEpkYzg/view?resourcekey=0-W_h-Aav9MXu4eBN-aoWcdQ"
-    },
      {
-        "id": 49,
-        "name": "Around the World in Eighty Days",
-        "number-pages": 130,
-        "author": "Jules Verne",
-        "publishing-year": "1872",
-        "shopping-link": "https://www.amazon.in/Around-World-Eighty-Jules-Verne/dp/8175993936/ref=sr_1_2?crid=84ON5LKWED2R&keywords=around+the+world+in+80+days+by+jules+verne&qid=1664563986&qu=eyJxc2MiOiIyLjg1IiwicXNhIjoiMi4wOSIsInFzcCI6IjEuNTUifQ%3D%3D&sprefix=around+the+world+in+80+days%2Caps%2C222&sr=8-2",
-        "download-link": "https://www.gutenberg.org/ebooks/103"
-    },
-    {
+        "image": "https://th.bing.com/th/id/R.25bf42b668e97d2a96ec0ce6bef26354?rik=h1oA2f8G%2bFJe5A&riu=http%3a%2f%2fmedia3.popsugar-assets.com%2ffiles%2fthumbor%2foZ_FXe2qAWD3Hq8Cvqp5ILn3n0I%3d%2ffit-in%2f2048xorig%2f2015%2f07%2f21%2f601%2fn%2f24155406%2f54efbad6bb528060_i-am-malala-original-imadzunggcn3j9n4%2fi%2fI-Am-Malala-Malala-Yousafzai-ages-10.jpeg&ehk=Lxhkdc%2fBQWk7uPzYTiJ766Qqj6so%2bXaJWQPNcHZz%2ff8%3d&risl=&pid=ImgRaw&r=0",
         "id": 23,
         "number-pages": 327,
         "name": "I am malala",
@@ -635,7 +658,8 @@
         "shopping-link": "https://www.amazon.in/Am-Malala-Stood-Education-Taliban/dp/1780226586/ref=asc_df_1780226586/?tag=googleshopdes-21&linkCode=df0&hvadid=397083491927&hvpos=&hvnetw=g&hvrand=17077502091211482814&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-369816643388&psc=1&ext_vrnc=hi",
         "download-link": "https://www.booksfree.org/i-am-malala-pdf-free-download-a/"
     },
-   {
+    {
+        "image": "https://th.bing.com/th/id/R.69e097b0bc57e30a5d5d8f873e8ac9f2?rik=uo%2fHcIaGTeuKhg&pid=ImgRaw&r=0",
         "id": 35,
         "number-pages": 1055,
         "name": "ramayan",
